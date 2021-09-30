@@ -1,3 +1,3 @@
 # never mind
 
-this repo can be ignored
+you can ignore this repository
